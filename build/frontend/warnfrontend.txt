@@ -1,0 +1,14 @@
+missing module named org - imported by pickle, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
+missing module named _winreg - imported by platform, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
+missing module named java - imported by platform, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
+missing module named 'java.lang' - imported by platform, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
+missing module named msvcrt - imported by subprocess, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py, getpass
+missing module named _winapi - imported by subprocess, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
+missing module named winreg - imported by platform, mimetypes, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py, urllib.request
+missing module named nt - imported by os, ntpath, shutil, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
+missing module named 'org.python' - imported by copy, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py, xml.sax
+missing module named _dummy_threading - imported by dummy_threading, /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
+missing module named Tkinter - imported by /Users/hungweicheng/PycharmProjects/BookStore_App/src/frontend.py
