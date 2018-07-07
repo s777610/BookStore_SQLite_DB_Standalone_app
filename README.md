@@ -11,13 +11,13 @@ This is how graphical user interface look like.
 
 
 
-Users can view all data from database if click view all button. In addition, users can click the specilic row from list box and delete it. 
+Users can view all data from database if click view all button. In addition, users can click the specific row from list box and delete it. 
 
 <img width="560" alt="screen shot 2018-07-06 at 6 08 11 pm" src="https://user-images.githubusercontent.com/35472776/42405335-fbc26d16-8148-11e8-880c-cbdd3a045c42.png">
 
 
 
 
-Users are able to type the kew word into entry form in order to find specilic entry. 
+Users are able to type the kew word into entry form in order to find specific entry. 
 
 <img width="560" alt="screen shot 2018-07-06 at 6 09 03 pm" src="https://user-images.githubusercontent.com/35472776/42405336-fea01c90-8148-11e8-9d4e-87ba3f066a86.png">
